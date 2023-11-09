@@ -2,7 +2,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matteo ianeri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matteo ianeri" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/nezarec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="im-kun" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/nezarec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/nezarec" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,7 +21,3 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imkun-on&label=Profile%20views&color=0e75b6&style=flat" alt="imkun-on" /> </p>
-
-
-
-
