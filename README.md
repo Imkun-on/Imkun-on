@@ -27,4 +27,3 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imkun-on&" alt="imkun-on" style="filter: invert(1);"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imkun-on&label=Profile%20views&color=0e75b6&style=flat" alt="imkun-on" /> </p>
