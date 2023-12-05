@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matteo Ianeri</h1>
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="coding" width="400" src="https://geekflare.com/wp-content/uploads/2022/09/greencoding.jpg">
-
 <p align="left">
 <a href="https://www.linkedin.com/in/matteo-ianeri-5915a7209/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matteo ianeri" height="30" width="40" />
 </a>
 
 <a href="https://www.kaggle.com/nezarec" target="_blank">
