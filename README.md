@@ -22,6 +22,10 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imkun-on&show_icons=true&locale=en&layout=compact" alt="imkun-on" style="filter: invert(1);"/>
   </p>
 
+  <p>&nbsp;
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=imkun-on&show_icons=true&locale=en" alt="imkun-on" style="filter: invert(1);"/>
+  </p>
+
   <p>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=imkun-on&" alt="imkun-on" style="filter: invert(1);"/>
   </p>
