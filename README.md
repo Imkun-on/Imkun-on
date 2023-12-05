@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matteo Ianeri</h1>
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Imkun-on/Imkun-on/blob/assets/128424062/93ab563d-627b-43ef-85e8-edb0e01da6a2.png">
+<img align="right" alt="coding" width="400" src="https://geekflare.com/wp-content/uploads/2022/09/greencoding.jpg">
 
 <p align="left">
 <a href="https://www.linkedin.com/in/matteo-ianeri-5915a7209/" target="_blank">
