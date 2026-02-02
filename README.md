@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="./assets/ghost-in-the-shell-mechanical-hands.gif">
+<img align="right" alt="Coding" width="320" src="./assets/ghost-in-the-shell-mechanical-hands.gif">
 
 ### 🧑‍💻 About Me
 
