@@ -2,8 +2,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A9AF7&center=true&vCenter=true&random=false&width=520&lines=Junior+Data+Scientist;AI+%26+Automation+Enthusiast;Turning+Data+into+Decisions" alt="Typing SVG" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=imkun-on&label=Profile%20views&color=1A9AF7&style=for-the-badge" alt="imkun-on" />
-
 </div>
 
 ---
@@ -33,7 +31,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 **Data & ML**
@@ -55,6 +53,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Dash Plotly](https://img.shields.io/badge/Dash%20Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Shiny Dashboard](https://img.shields.io/badge/Shiny%20Dashboard-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **Productivity & Office**
 
