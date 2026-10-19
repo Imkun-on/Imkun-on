@@ -102,7 +102,7 @@
 <td align="center" width="50%">
 <a href="https://github.com/Imkun-on/MediaFlow"><img src="./assets/Crow.png" width="160" alt="MediaFlow"/></a>
 <br>
-<a href="https://github.com/Imkun-on/MediaFlow"><b>MediaFlow</b></a>
+<a href="https://github.com/Imkun-on/MediaFlow"><b>Pica</b></a>
 <br>
 <sub>All your audio and video, in one place</sub>
 </td>
