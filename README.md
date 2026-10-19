@@ -109,7 +109,7 @@
 <td align="center" width="50%">
 <a href="https://github.com/Imkun-on/EchoScript"><img src="./assets/Mouse.png" width="160" alt="EchoScript"/></a>
 <br>
-<a href="https://github.com/Imkun-on/EchoScript"><b>EchoScript</b></a>
+<a href="https://github.com/Imkun-on/EchoScript"><b>MusAuditor</b></a>
 <br>
 <sub>Transcribe, translate and summarize audio &amp; video</sub>
 </td>
