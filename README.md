@@ -1,91 +1,136 @@
-<div align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1A9AF7&center=true&vCenter=true&width=600&lines=Building+intelligent+pipelines+with+LLMs;Automating+marketing+workflows+via+APIs;Turning+data+into+decisions" alt="Typing SVG"/></a>
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A9AF7&center=true&vCenter=true&random=false&width=520&lines=Junior+Data+Scientist;AI+%26+Automation+Enthusiast;Turning+Data+into+Decisions" alt="Typing SVG" /></a>
+## 🧑‍💻 About Me
 
-</div>
+<table>
+<tr>
+<td width="55%" valign="top">
 
----
+- 🔭 **Junior Data Scientist** — I automate marketing workflows using the **Perplexity**, **OpenAI** and **Apollo.io** APIs
+- 🕸️ **Resilient web scraping** — extractors that adapt on their own when websites change their structure (**Octopus**)
+- 🎧 **AI for audio & video** — transcription, translation and summaries, from the command line or a GUI (**EchoScript**, **MediaFlow**)
+- 🖥️ **Python desktop apps** — interfaces built with **Flet** and **CustomTkinter**, made for people who never open a terminal
 
-<img align="right" alt="Coding" width="320" src="./assets/ghost-in-the-shell-mechanical-hands.gif">
+</td>
+<td width="45%" valign="top">
 
-### 🧑‍💻 About Me
+<img src="./assets/ghost-in-the-shell-mechanical-hands.gif" width="100%" alt="Coding"/>
 
-🔭 **Junior Data Scientist** — I automate workflows in the marketing department leveraging APIs from **Perplexity**, **OpenAI**, and **Apollo.io**
-
-🤖 Passionate about building intelligent pipelines that save time and drive smarter decisions
-
-🌱 Currently diving deeper into **Advanced AI techniques**, **Prompt Engineering**, and **LLM integrations**
-
-💡 I love bridging the gap between **data science** and **real-world business impact**
-
-📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/matteo-ianeri-5915a7209/)**
-
-<br clear="both">
-
----
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
-**Languages & Scripting**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,r,postgres,mysql,sqlite,pytorch,tensorflow,sklearn,aws,powershell&perline=10" alt="Main stack"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+<table align="center">
+<tr>
+<td><b>🧠 Data & ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-444876?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Sentiment%20Analysis-6C63FF?style=flat-square&logo=spacy&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>📊 Visualization</b></td>
+<td>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dash%20Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shiny-276DC3?style=flat-square&logo=r&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>🤖 AI & APIs</b></td>
+<td>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apollo.io-5A4FCF?style=flat-square&logo=apollo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tavily-0A0A0A?style=flat-square&logo=tauri&logoColor=white"/>
+<img src="https://img.shields.io/badge/Beautiful%20Soup-59666C?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Requests-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>🖥️ GUI & Scripting</b></td>
+<td>
+<img src="https://img.shields.io/badge/Flet-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/CustomTkinter-1F6F2E?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Batch-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>📁 Office</b></td>
+<td>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
+</td>
+</tr>
+</table>
 
-**Data & ML**
+## 🚀 Projects
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-6C63FF?style=for-the-badge&logo=spacy&logoColor=white)
-
-**Databases & Visualization**
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Dash Plotly](https://img.shields.io/badge/Dash%20Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Shiny Dashboard](https://img.shields.io/badge/Shiny%20Dashboard-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-**Productivity & Office**
-
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-**Tools & APIs**
-
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Apollo.io](https://img.shields.io/badge/Apollo.io-5A4FCF?style=for-the-badge&logo=apollo&logoColor=white)
-![Tavily](https://img.shields.io/badge/Tavily-0A0A0A?style=for-the-badge&logo=tauri&logoColor=white)
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white)
-![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-59666C?style=for-the-badge&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flet](https://img.shields.io/badge/Flet-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6F2E?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-ianeri-5915a7209/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imkun-on)
-
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/Imkun-on/Octopus"><img src="./assets/Octopus.png" width="160" alt="Octopus"/></a>
 <br>
+<a href="https://github.com/Imkun-on/Octopus"><b>Octopus</b></a>
+<br>
+<sub>Adaptive scraper for reviews, articles and books</sub>
+</td>
+<td align="center" width="50%">
+<img src="./assets/Procyon.png" width="160" alt="Procyon"/>
+<br>
+<b>Procyon</b>
+<br>
+<sub>Currently unavailable</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/Imkun-on/MediaFlow"><img src="./assets/Crow.png" width="160" alt="MediaFlow"/></a>
+<br>
+<a href="https://github.com/Imkun-on/MediaFlow"><b>MediaFlow</b></a>
+<br>
+<sub>All your audio and video, in one place</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/Imkun-on/EchoScript"><img src="./assets/Mouse.png" width="160" alt="EchoScript"/></a>
+<br>
+<a href="https://github.com/Imkun-on/EchoScript"><b>EchoScript</b></a>
+<br>
+<sub>Transcribe, translate and summarize audio &amp; video</sub>
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+## 📈 GitHub Stats
 
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imkun-on&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1A9AF7&icon_color=6C63FF&text_color=C9D1D9&rank_icon=github" alt="Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkun-on&layout=compact&hide_border=true&bg_color=0D1117&title_color=1A9AF7&text_color=C9D1D9" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imkun-on&hide_border=true&background=0D1117&ring=1A9AF7&fire=6C63FF&currStreakLabel=1A9AF7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak"/>
+</p>
+
+<p align="center">
+  <b>🤝 Let's connect!</b><br><br>
+  <a href="https://www.linkedin.com/in/matteo-ianeri-5915a7209/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/imkun-on"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:1A9AF7,100:0D1117&height=110&section=footer" width="100%" alt="footer"/>
